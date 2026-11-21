@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the MIDI 2026 paper and, when available, the dataset release DOI."
+title: "Turkish Factual Question Answering Dataset for Confidence Calibration"
+type: dataset
+authors:
+  - family-names: "Özkan"
+    given-names: "Hilal"
+  - family-names: "Sarp"
+    given-names: "Salih"
+version: "1.0.0"

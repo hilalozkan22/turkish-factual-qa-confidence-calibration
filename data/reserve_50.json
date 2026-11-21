@@ -1,0 +1,1359 @@
+[
+  {
+    "question_id": "TRQA001010",
+    "question": "İnsanlarda oksijen taşıyan temel kan proteininin adı nedir?",
+    "reference_answer": "Hemoglobin",
+    "accepted_aliases": [
+      "Hemoglobin",
+      "Haemoglobin"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Bilim",
+    "source_type": "generated",
+    "source_name": "National Library of Medicine, MedlinePlus",
+    "source_reference": "https://medlineplus.gov/ency/article/002373.htm",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001012",
+    "question": "Elektrik direncinin SI birimi nedir?",
+    "reference_answer": "Ohm",
+    "accepted_aliases": [
+      "Ohm",
+      "Ω"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Bilim",
+    "source_type": "generated",
+    "source_name": "National Institute of Standards and Technology",
+    "source_reference": "https://www.nist.gov/pml/owm/si-units-electric-current",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001014",
+    "question": "Satürn'ün halkalarının büyük ölçüde hangi maddelerden oluştuğu kabul edilir?",
+    "reference_answer": "Buz ve kaya parçacıkları",
+    "accepted_aliases": [
+      "Buz ve kaya parçacıkları",
+      "buz ve kaya",
+      "ice and rock particles"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Uzay",
+    "source_type": "generated",
+    "source_name": "NASA Science",
+    "source_reference": "https://science.nasa.gov/mission/cassini/faq/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001022",
+    "question": "JSON kısaltmasının açılımı nedir?",
+    "reference_answer": "JavaScript Object Notation",
+    "accepted_aliases": [
+      "JavaScript Object Notation"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Teknoloji",
+    "source_type": "generated",
+    "source_name": "JSON.org",
+    "source_reference": "https://www.json.org/json-en.html",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001023",
+    "question": "HTTP durum kodu 404 neyi ifade eder?",
+    "reference_answer": "Kaynak bulunamadı",
+    "accepted_aliases": [
+      "Kaynak bulunamadı",
+      "Not Found",
+      "Bulunamadı"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Teknoloji",
+    "source_type": "generated",
+    "source_name": "Internet Engineering Task Force, RFC 9110",
+    "source_reference": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001025",
+    "question": "Hundred Years' War olarak bilinen Yüz Yıl Savaşı hangi iki krallık arasında gerçekleşmiştir?",
+    "reference_answer": "İngiltere ve Fransa",
+    "accepted_aliases": [
+      "İngiltere ve Fransa",
+      "England and France",
+      "Fransa ve İngiltere"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Tarih",
+    "source_type": "generated",
+    "source_name": "Encyclopaedia Britannica",
+    "source_reference": "https://www.britannica.com/event/Hundred-Years-War",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001026",
+    "question": "Hammurabi Kanunları hangi antik uygarlıkla ilişkilidir?",
+    "reference_answer": "Babil",
+    "accepted_aliases": [
+      "Babil",
+      "Babylon",
+      "Babilliler"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Tarih",
+    "source_type": "generated",
+    "source_name": "Institute for the Study of Ancient Cultures, University of Chicago",
+    "source_reference": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oimp36.pdf",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001032",
+    "question": "Hentbolda kaleci dâhil bir takım sahada aynı anda kaç oyuncuyla bulunur?",
+    "reference_answer": "7",
+    "accepted_aliases": [
+      "7",
+      "yedi"
+    ],
+    "answer_type": "NUMBER",
+    "category": "Spor",
+    "source_type": "generated",
+    "source_name": "International Handball Federation",
+    "source_reference": "https://www.ihf.info/media-center/news/handball-101-understand-essentials-olympic-handball-tournament-begins",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001035",
+    "question": "Türkçede büyük ünlü uyumu ünlülerin hangi özelliğine dayanır?",
+    "reference_answer": "Kalınlık-incelik",
+    "accepted_aliases": [
+      "Kalınlık-incelik",
+      "kalınlık ve incelik"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Dil",
+    "source_type": "generated",
+    "source_name": "University of Texas at Austin, Linguistics Research Center",
+    "source_reference": "https://laits.utexas.edu/phonology/turkish/harmony.html",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001040",
+    "question": "Satrançta oyuna başlayan taraf hangi renktir?",
+    "reference_answer": "Beyaz",
+    "accepted_aliases": [
+      "Beyaz",
+      "White"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Genel Kültür",
+    "source_type": "generated",
+    "source_name": "FIDE",
+    "source_reference": "https://handbook.fide.com/chapter/e012023",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001042",
+    "question": "Bir asal sayı olan 2'nin kendisinden sonraki asal sayı hangisidir?",
+    "reference_answer": "3",
+    "accepted_aliases": [
+      "3",
+      "üç"
+    ],
+    "answer_type": "NUMBER",
+    "category": "Matematik",
+    "source_type": "generated",
+    "source_name": "Wolfram MathWorld",
+    "source_reference": "https://mathworld.wolfram.com/NextPrime.html",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 1,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001058",
+    "question": "Empresyonizm adını Claude Monet'nin hangi tablosundan alır?",
+    "reference_answer": "İzlenim, Gün Doğumu",
+    "accepted_aliases": [
+      "İzlenim, Gün Doğumu",
+      "Impression, soleil levant"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Sanat",
+    "source_type": "generated",
+    "source_name": "The Museum of Modern Art",
+    "source_reference": "https://www.moma.org/collection/terms/impressionism%C2%A0",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001063",
+    "question": "Europa hangi gezegenin doğal uydusudur?",
+    "reference_answer": "Jüpiter",
+    "accepted_aliases": [
+      "Jüpiter",
+      "Jupiter"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Uzay",
+    "source_type": "generated",
+    "source_name": "NASA Science",
+    "source_reference": "https://science.nasa.gov/jupiter/jupiter-moons/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001064",
+    "question": "Triton hangi gezegenin en büyük doğal uydusudur?",
+    "reference_answer": "Neptün",
+    "accepted_aliases": [
+      "Neptün",
+      "Neptune"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Uzay",
+    "source_type": "generated",
+    "source_name": "NASA Science",
+    "source_reference": "https://science.nasa.gov/neptune/moons/triton/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001076",
+    "question": "On İki Levha Kanunları hangi antik uygarlığa aittir?",
+    "reference_answer": "Antik Roma",
+    "accepted_aliases": [
+      "Antik Roma",
+      "Roma"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Tarih",
+    "source_type": "generated",
+    "source_name": "Cambridge University Press",
+    "source_reference": "https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A1F48301CACE791B16D34F3A966587EB/9781009629959int_1-30.pdf/introduction-did-romans-have-law.pdf",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001079",
+    "question": "Beyzbolda savunmadaki bir takım sahada kaç oyuncuyla yer alır?",
+    "reference_answer": "9",
+    "accepted_aliases": [
+      "9",
+      "dokuz"
+    ],
+    "answer_type": "NUMBER",
+    "category": "Spor",
+    "source_type": "generated",
+    "source_name": "Major League Baseball",
+    "source_reference": "https://www.mlb.com/dbacks/community/education-initiatives/science-of-baseball/april-lesson",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001101",
+    "question": "Dönüşüm adlı öykünün başkahramanının adı nedir?",
+    "reference_answer": "Gregor Samsa",
+    "accepted_aliases": [
+      "Gregor Samsa",
+      "Gregor"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Edebiyat",
+    "source_type": "generated",
+    "source_name": "Project Gutenberg",
+    "source_reference": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001102",
+    "question": "İlyada destanında Akhilleus’un yakın dostu kimdir?",
+    "reference_answer": "Patroklos",
+    "accepted_aliases": [
+      "Patroklos",
+      "Patroclus"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Edebiyat",
+    "source_type": "generated",
+    "source_name": "Getty Research Institute, Cultural Objects Name Authority",
+    "source_reference": "https://www.getty.edu/cona/CONAIconographyRecord.aspx?iconid=901000742",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001103",
+    "question": "Gılgamış Destanı hangi antik uygarlığın edebiyatına aittir?",
+    "reference_answer": "Sümer",
+    "accepted_aliases": [
+      "Sümer",
+      "Sümerler",
+      "Sümer uygarlığı"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Edebiyat",
+    "source_type": "generated",
+    "source_name": "Oxford Academic, Edinburgh Scholarship Online",
+    "source_reference": "https://doi.org/10.3366/edinburgh/9780748613878.003.0014",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001110",
+    "question": "DNA'daki genetik bilginin RNA'ya aktarılması işlemine ne ad verilir?",
+    "reference_answer": "Transkripsiyon",
+    "accepted_aliases": [
+      "Transkripsiyon",
+      "RNA sentezi"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Bilim",
+    "source_type": "generated",
+    "source_name": "National Human Genome Research Institute",
+    "source_reference": "https://www.genome.gov/genetics-glossary/Transcription?id=197",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001112",
+    "question": "F eşittir m çarpı a bağıntısı Newton'un kaçıncı hareket yasasıdır?",
+    "reference_answer": "2",
+    "accepted_aliases": [
+      "2",
+      "İkinci",
+      "İkinci yasa"
+    ],
+    "answer_type": "NUMBER",
+    "category": "Bilim",
+    "source_type": "generated",
+    "source_name": "NASA Glenn Research Center",
+    "source_reference": "https://www.grc.nasa.gov/www/k-12/rocket/TRCRocket/rocket_principles",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001116",
+    "question": "Güneş'in merkezinde enerji üretilmesini sağlayan temel nükleer süreç nedir?",
+    "reference_answer": "Nükleer füzyon",
+    "accepted_aliases": [
+      "Nükleer füzyon",
+      "Füzyon"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Uzay",
+    "source_type": "generated",
+    "source_name": "NASA Space Place",
+    "source_reference": "https://spaceplace.nasa.gov/sun-heat/sp/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001119",
+    "question": "Himalayalar'da yer alan dünyanın en yüksek dağ zirvesinin adı nedir?",
+    "reference_answer": "Everest",
+    "accepted_aliases": [
+      "Everest",
+      "Everest Dağı",
+      "Çomolungma"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Coğrafya",
+    "source_type": "generated",
+    "source_name": "UNESCO World Heritage Centre",
+    "source_reference": "https://whc.unesco.org/en/list/120/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001121",
+    "question": "HTTP durum kodu 503 ne anlama gelir?",
+    "reference_answer": "Hizmet kullanılamıyor",
+    "accepted_aliases": [
+      "Hizmet kullanılamıyor",
+      "Service Unavailable",
+      "Hizmet geçici olarak kullanılamıyor"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Teknoloji",
+    "source_type": "generated",
+    "source_name": "Internet Engineering Task Force, RFC 9110",
+    "source_reference": "https://www.rfc-editor.org/rfc/rfc9110.html#name-503-service-unavailable",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001123",
+    "question": "PNG görüntü dosyası biçiminin İngilizce açılımı nedir?",
+    "reference_answer": "Portable Network Graphics",
+    "accepted_aliases": [
+      "Portable Network Graphics"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Teknoloji",
+    "source_type": "generated",
+    "source_name": "World Wide Web Consortium",
+    "source_reference": "https://www.w3.org/TR/png-3/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001125",
+    "question": "MS 79'da Pompeii kentinin kül altında kalmasına yol açan yanardağ hangisidir?",
+    "reference_answer": "Vezüv",
+    "accepted_aliases": [
+      "Vezüv",
+      "Vezüv Yanardağı",
+      "Vesuvius"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Tarih",
+    "source_type": "generated",
+    "source_name": "UNESCO World Heritage Centre",
+    "source_reference": "https://whc.unesco.org/en/list/829/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001128",
+    "question": "1856 yılında Osmanlı Devleti'nde ilan edilen reform fermanının yaygın adı nedir?",
+    "reference_answer": "Islahat Fermanı",
+    "accepted_aliases": [
+      "Islahat Fermanı"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Tarih",
+    "source_type": "generated",
+    "source_name": "TDV İslâm Ansiklopedisi",
+    "source_reference": "https://islamansiklopedisi.org.tr/islahat-fermani",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001129",
+    "question": "Teniste bir takvim yılı içinde düzenlenen Grand Slam turnuvası sayısı kaçtır?",
+    "reference_answer": "4",
+    "accepted_aliases": [
+      "4",
+      "Dört"
+    ],
+    "answer_type": "NUMBER",
+    "category": "Spor",
+    "source_type": "generated",
+    "source_name": "International Tennis Federation",
+    "source_reference": "https://www.itftennis.com/en/tours/grand-slam-tournaments/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001130",
+    "question": "Golfte bir deliği par değerinden iki vuruş daha azıyla tamamlamaya ne denir?",
+    "reference_answer": "Eagle",
+    "accepted_aliases": [
+      "Eagle"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Spor",
+    "source_type": "generated",
+    "source_name": "United States Golf Association",
+    "source_reference": "https://www.usga.org/content/usga/home-page/articles/2026/01/world-play-terminology-golf-lingo.html",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001132",
+    "question": "Teniste sıfır puan için kullanılan İngilizce terim nedir?",
+    "reference_answer": "Love",
+    "accepted_aliases": [
+      "Love"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Spor",
+    "source_type": "generated",
+    "source_name": "International Tennis Federation",
+    "source_reference": "https://www.itftennis.com/en/about-us/organisation/tennis-glossary/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001133",
+    "question": "İngilizce take fiilinin geçmiş zaman biçimi nedir?",
+    "reference_answer": "took",
+    "accepted_aliases": [
+      "took"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Dil",
+    "source_type": "generated",
+    "source_name": "Cambridge Dictionary",
+    "source_reference": "https://dictionary.cambridge.org/dictionary/english/take",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001135",
+    "question": "İngilizce mice sözcüğünün tekil biçimi nedir?",
+    "reference_answer": "mouse",
+    "accepted_aliases": [
+      "mouse"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Dil",
+    "source_type": "generated",
+    "source_name": "Cambridge Dictionary",
+    "source_reference": "https://dictionary.cambridge.org/dictionary/english/mice",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001138",
+    "question": "Grammy Ödülleri esas olarak hangi sanat dalındaki başarılara verilir?",
+    "reference_answer": "Müzik",
+    "accepted_aliases": [
+      "Müzik",
+      "Müzik sanatı"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Genel Kültür",
+    "source_type": "generated",
+    "source_name": "The Recording Academy, Grammy Awards",
+    "source_reference": "https://www.grammy.com/about/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001141",
+    "question": "En küçük çift asal sayı kaçtır?",
+    "reference_answer": "2",
+    "accepted_aliases": [
+      "2",
+      "İki"
+    ],
+    "answer_type": "NUMBER",
+    "category": "Matematik",
+    "source_type": "generated",
+    "source_name": "Wolfram MathWorld",
+    "source_reference": "https://mathworld.wolfram.com/PrimeNumber.html",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001144",
+    "question": "Yarıçapı r olan bir çemberin çevresini veren formül nedir?",
+    "reference_answer": "2πr",
+    "accepted_aliases": [
+      "2πr",
+      "2*pi*r",
+      "2 çarpı pi çarpı r"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Matematik",
+    "source_type": "generated",
+    "source_name": "Wolfram MathWorld",
+    "source_reference": "https://mathworld.wolfram.com/Circle.html",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001156",
+    "question": "Salvador Dalí'nin Belleğin Azmi tablosu hangi yıl tamamlandı?",
+    "reference_answer": "1931",
+    "accepted_aliases": [
+      "1931"
+    ],
+    "answer_type": "DATE",
+    "category": "Sanat",
+    "source_type": "generated",
+    "source_name": "Salvador Dalí Museum / MoMA",
+    "source_reference": "https://www.moma.org/collection/works/79018",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001158",
+    "question": "Floransa'daki Davut heykeli hangi müzede sergilenir?",
+    "reference_answer": "Accademia Galerisi",
+    "accepted_aliases": [
+      "Accademia Galerisi",
+      "Galleria dell’Accademia"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Sanat",
+    "source_type": "generated",
+    "source_name": "Galleria dell'Accademia di Firenze",
+    "source_reference": "https://www.galleriaaccademiafirenze.it/en/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001168",
+    "question": "Afrika kıtasının en derin gölünün adı nedir?",
+    "reference_answer": "Tanganika Gölü",
+    "accepted_aliases": [
+      "Tanganika Gölü",
+      "Tanganyika Gölü",
+      "Tanganika"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Coğrafya",
+    "source_type": "generated",
+    "source_name": "Food and Agriculture Organization of the United Nations",
+    "source_reference": "https://www.fao.org/fishery/static/LTR/GEN.HTM",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001169",
+    "question": "İber Yarımadası ile Kuzey Afrika arasındaki boğazın adı nedir?",
+    "reference_answer": "Cebelitarık Boğazı",
+    "accepted_aliases": [
+      "Cebelitarık Boğazı",
+      "Gibraltar Boğazı",
+      "Strait of Gibraltar"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Coğrafya",
+    "source_type": "generated",
+    "source_name": "European Space Agency",
+    "source_reference": "https://www.esa.int/ESA_Multimedia/Images/2021/03/Strait_of_Gibraltar",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001190",
+    "question": "Standart 3×3×3 Rubik küpünün bir yüzünde kaç küçük kare bulunur?",
+    "reference_answer": "9",
+    "accepted_aliases": [
+      "9",
+      "Dokuz"
+    ],
+    "answer_type": "NUMBER",
+    "category": "Genel Kültür",
+    "source_type": "generated",
+    "source_name": "Rubik's",
+    "source_reference": "https://www.rubiks.com/products/rubiks-3x3",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001200",
+    "question": "Satış geliri ile satılan malların maliyeti arasındaki farka ne ad verilir?",
+    "reference_answer": "Brüt kâr",
+    "accepted_aliases": [
+      "Brüt kâr",
+      "Brüt kar"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Ekonomi",
+    "source_type": "generated",
+    "source_name": "OpenStax",
+    "source_reference": "https://openstax.org/books/principles-financial-accounting/pages/6-key-terms",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001204",
+    "question": "George Orwell'in 1984 romanında geçmiş kayıtlarının yeniden yazılmasından sorumlu bakanlığın adı nedir?",
+    "reference_answer": "Hakikat Bakanlığı",
+    "accepted_aliases": [
+      "Hakikat Bakanlığı",
+      "Gerçek Bakanlığı",
+      "Ministry of Truth"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Edebiyat",
+    "source_type": "generated",
+    "source_name": "The Orwell Foundation",
+    "source_reference": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001205",
+    "question": "René Magritte’in İmgelerin İhaneti adlı tablosunda resmedilen nesne nedir?",
+    "reference_answer": "Pipo",
+    "accepted_aliases": [
+      "Pipo",
+      "Tütün piposu"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Sanat",
+    "source_type": "generated",
+    "source_name": "Museum of Modern Art (MoMA)",
+    "source_reference": "https://www.moma.org/slideshows/22/372",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001218",
+    "question": "Dünyanın en derin gölünün adı nedir?",
+    "reference_answer": "Baykal Gölü",
+    "accepted_aliases": [
+      "Baykal Gölü",
+      "Baykal",
+      "Lake Baikal"
+    ],
+    "answer_type": "ENTITY_OTHER",
+    "category": "Coğrafya",
+    "source_type": "generated",
+    "source_name": "UNESCO World Heritage Centre",
+    "source_reference": "https://whc.unesco.org/en/list/754/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001220",
+    "question": "Bering Boğazı hangi iki kıtayı birbirinden ayırır?",
+    "reference_answer": "Asya ve Kuzey Amerika",
+    "accepted_aliases": [
+      "Asya ve Kuzey Amerika",
+      "Kuzey Amerika ile Asya"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Coğrafya",
+    "source_type": "generated",
+    "source_name": "National Oceanic and Atmospheric Administration (NOAA)",
+    "source_reference": "https://oceanservice.noaa.gov/facts/bering.html",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001223",
+    "question": "IEEE 802.11 standart ailesi hangi kablosuz ağ teknolojisiyle ilişkilidir?",
+    "reference_answer": "Wi-Fi",
+    "accepted_aliases": [
+      "Wi-Fi",
+      "WiFi",
+      "Kablosuz yerel ağ"
+    ],
+    "answer_type": "SHORT_PHRASE",
+    "category": "Teknoloji",
+    "source_type": "generated",
+    "source_name": "IEEE 802.11 Working Group",
+    "source_reference": "https://www.ieee802.org/11/",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001239",
+    "question": "Birleşmiş Milletlerin resmî dil sayısı kaçtır?",
+    "reference_answer": "6",
+    "accepted_aliases": [
+      "6",
+      "Altı"
+    ],
+    "answer_type": "NUMBER",
+    "category": "Genel Kültür",
+    "source_type": "generated",
+    "source_name": "United Nations",
+    "source_reference": "https://www.un.org/en/our-work/official-languages",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001244",
+    "question": "Bir dört yüzlünün kaç ayrıtı vardır?",
+    "reference_answer": "6",
+    "accepted_aliases": [
+      "6",
+      "Altı"
+    ],
+    "answer_type": "NUMBER",
+    "category": "Matematik",
+    "source_type": "generated",
+    "source_name": "Wolfram MathWorld",
+    "source_reference": "https://mathworld.wolfram.com/RegularTetrahedron.html",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001254",
+    "question": "Yunus Nadi Roman Ödülü'nü düzenleyen gazetenin adı nedir?",
+    "reference_answer": "Cumhuriyet",
+    "accepted_aliases": [
+      "Cumhuriyet",
+      "Cumhuriyet gazetesi"
+    ],
+    "answer_type": "ENTITY_ORGANIZATION",
+    "category": "Edebiyat",
+    "source_type": "generated",
+    "source_name": "Cumhuriyet",
+    "source_reference": "https://www.cumhuriyet.com.tr/kultur-sanat/81-yunus-nadi-odulleri-yarismasi-basladi-2485578",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  },
+  {
+    "question_id": "TRQA001263",
+    "question": "Ariane 6 roketinin geliştirilmesinde ana yüklenici olarak görev yapan Avrupa şirketinin adı nedir?",
+    "reference_answer": "ArianeGroup",
+    "accepted_aliases": [
+      "ArianeGroup",
+      "Ariane Group"
+    ],
+    "answer_type": "ENTITY_ORGANIZATION",
+    "category": "Uzay",
+    "source_type": "generated",
+    "source_name": "European Space Agency",
+    "source_reference": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_joint_update_report_22_March_2024",
+    "verification_status": "verified",
+    "notes": null,
+    "verification": {
+      "review_source": "manual_web_review",
+      "validation_decision": "ACCEPT",
+      "factually_correct": 1,
+      "single_unambiguous_answer": 1,
+      "time_stable": 1,
+      "aliases_valid": 1,
+      "temporal_risk_flag": 0,
+      "ambiguity_risk_flag": 0,
+      "validation_notes": null
+    }
+  }
+]

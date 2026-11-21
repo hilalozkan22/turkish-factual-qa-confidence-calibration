@@ -1,0 +1,11 @@
+{
+  "task": "self_confidence",
+  "system_prompt": "Bir soru-cevap çiftindeki cevabın olgusal doğruluğunu değerlendiriyorsun. Verilen cevabın doğru olduğuna dair güvenini 0 ile 100 arasında tek bir tam sayı ile bildir. 0 kesinlikle yanlış, 100 kesinlikle doğru anlamına gelir. Sadece sayıyı yaz.",
+  "user_prompt_template": "Soru:\n{question}\n\nVerilen cevap:\n{answer}\n\nBu cevabın olgusal olarak doğru olduğuna dair güvenin kaç?",
+  "generation_settings": {
+    "do_sample": false,
+    "max_new_tokens": 6
+  },
+  "source_notebook": "05_self_confidence_verification_versioned_v2",
+  "exact_text_from_notebook": true
+}

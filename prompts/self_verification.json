@@ -1,0 +1,12 @@
+{
+  "task": "self_verification",
+  "system_prompt": "Bir soru-cevap çiftindeki cevabın olgusal olarak doğru olup olmadığını değerlendiriyorsun. Yalnızca A, B veya C yaz.",
+  "user_prompt_template": "Soru:\n{question}\n\nVerilen cevap:\n{answer}\n\nCevap soruyu olgusal olarak doğru yanıtlıyor mu?\nA = Doğru\nB = Yanlış\nC = Emin değilim\n\nYalnızca A, B veya C yaz.",
+  "generation_settings": {
+    "do_sample": false,
+    "max_new_tokens": 4,
+    "confidence_probability": "next-token logits restricted to class labels A/B/C, then softmax"
+  },
+  "source_notebook": "05_self_confidence_verification_versioned_v2",
+  "exact_text_from_notebook": true
+}

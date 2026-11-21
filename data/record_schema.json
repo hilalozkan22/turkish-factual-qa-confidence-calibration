@@ -1,0 +1,41 @@
+{
+  "description": "Published dataset records preserving the original question IDs, question texts, and experimental splits; reference answers, accepted aliases, and source references reflect the final researcher-reviewed workbook.",
+  "mandatory": [
+    "question_id",
+    "question",
+    "reference_answer",
+    "accepted_aliases",
+    "answer_type",
+    "category",
+    "source_name",
+    "source_reference",
+    "verification_status"
+  ],
+  "nine_answer_types": [
+    "BINARY",
+    "DATE",
+    "ENTITY_LOCATION",
+    "ENTITY_ORGANIZATION",
+    "ENTITY_OTHER",
+    "ENTITY_PERSON",
+    "NUMBER",
+    "NUMBER_WITH_UNIT",
+    "SHORT_PHRASE"
+  ],
+  "categories": [
+    "Bilim",
+    "Coğrafya",
+    "Dil",
+    "Edebiyat",
+    "Ekonomi",
+    "Felsefe",
+    "Genel Kültür",
+    "Matematik",
+    "Sanat",
+    "Spor",
+    "Tarih",
+    "Teknoloji",
+    "Uzay"
+  ],
+  "source_note": "reserve_50 notes are null because the supplied final workbook does not include original editorial notes for excluded reserve items; the source workbook retains frozen fingerprints even for two corrected answer records"
+}

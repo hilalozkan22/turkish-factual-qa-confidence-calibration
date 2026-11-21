@@ -1,0 +1,35 @@
+{
+  "primary_answer": {
+    "do_sample": false,
+    "max_new_tokens": 20
+  },
+  "self_confidence": {
+    "do_sample": false,
+    "max_new_tokens": 6
+  },
+  "self_verification": {
+    "do_sample": false,
+    "max_new_tokens": 4,
+    "p_correct_computation": "restricted softmax on A/B/C next token logits"
+  },
+  "self_consistency": {
+    "do_sample": true,
+    "n_samples": 5,
+    "seeds": [
+      101,
+      202,
+      303,
+      404,
+      505
+    ],
+    "max_new_tokens": 20,
+    "temperature": 0.7,
+    "top_p": 0.9
+  },
+  "inference_implementation": {
+    "quantization": "4-bit NF4",
+    "double_quantization": true,
+    "model_specific_dtype_and_revisions": "see the frozen model-selection manifest / experimental run configurations; not supplied as primary inputs to this dataset package"
+  },
+  "source": "04–06 submitted experiment notebooks"
+}

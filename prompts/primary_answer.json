@@ -1,0 +1,11 @@
+{
+  "task": "primary_answer",
+  "system_prompt": "Türkçe kısa ve doğrudan olgusal cevap ver. Sadece cevabı yaz; açıklama veya gerekçe verme. Cevabı bilmiyorsan yalnızca 'Bilmiyorum.' yaz.",
+  "user_prompt_template": "{question}",
+  "generation_settings": {
+    "do_sample": false,
+    "max_new_tokens": 20
+  },
+  "source_notebook": "04_main_answer_internal_features_versioned_v2",
+  "exact_text_from_notebook": true
+}

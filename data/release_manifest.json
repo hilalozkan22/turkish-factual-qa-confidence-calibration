@@ -1,0 +1,122 @@
+{
+  "release_id": "QA_dataset_release_v1.0.0",
+  "source_files": {
+    "validated_v012_final250_v1.json": {
+      "sha256": "6c1d3866c9f7fbab89105d9a53c26cc35715b0eb6c4264a669aa10c81845b680",
+      "rows": 1250
+    },
+    "data_final.xlsx": {
+      "sha256": "e2020a644420cf01fda996b8ed5f7af59210aa4a86b6ee536eb2226987109afe",
+      "rows": 1300
+    },
+    "frozen_stage08_core_model_matrix_v1.parquet": {
+      "sha256": "9003bcc9c4e11fa1c4d68259fad5420e86c7919caa6a5a04670f5215320209f0",
+      "rows": 3750,
+      "used_for": "Recover prior model-selection membership flags; NOT exported"
+    }
+  },
+  "counts": {
+    "original_dev": 1000,
+    "clean_dev": 970,
+    "model_selection": 30,
+    "final_test": 250,
+    "reserve": 50,
+    "used_in_experiments": 1250,
+    "all": 1300
+  },
+  "all_final_excel_rows_verified": true,
+  "verification_methods": {
+    "n_researchers": 1,
+    "secondary_review_reported_by_researcher": true,
+    "independent_content_verification_in_release_script": false
+  },
+  "top_source_organizations_1250": [
+    [
+      "NASA Science",
+      56
+    ],
+    [
+      "Wolfram MathWorld",
+      36
+    ],
+    [
+      "UNESCO World Heritage Centre",
+      34
+    ],
+    [
+      "Stanford Encyclopedia of Philosophy",
+      27
+    ],
+    [
+      "National Institute of Standards and Technology",
+      25
+    ],
+    [
+      "NASA",
+      21
+    ],
+    [
+      "Library of Congress",
+      19
+    ],
+    [
+      "The Museum of Modern Art",
+      16
+    ],
+    [
+      "Nobel Prize",
+      12
+    ],
+    [
+      "OpenStax",
+      12
+    ]
+  ],
+  "output_sha256": {
+    "CITATION.cff": "09ad0bc3ad2f80931afbfce87d27fc97750c9a98097d7e949c7a9d88aca0cd53",
+    "LICENSE": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94",
+    "README.md": "44fb80e8506c27f6a58b6e1b1d996790713da9a5fec5528bf2f957e3002c9095",
+    "configs/frozen_model_revisions.json": "f83ad4a54b8bbe48cdf10fab990c7e95f8ceeec196188965b62192b60c2a4e28",
+    "configs/generation_settings.json": "186a20570494c3bd93ca0fe7695e4bfed76f29afb41b7ab4ed65a59df5ecb235",
+    "data/all_experimental_1250.json": "5adee06dded61fe85b684b22b47011b0fedb811abb0bc1f7612de281db16bffd",
+    "data/clean_dev_970.json": "b11188838c5f31536099bccb60de4635d57892af5bf4cdb567bcc04b16dfe62c",
+    "data/final_test_250.json": "0c5c032a472fa1e110068e7b16e41fa9fd1b5826c1792fa20543f9c96e8c41b7",
+    "data/model_selection_30.json": "ad348111fb54e2e6871b58cf8aac1b32d0761ad3753ba6f8638bff0e29d286a3",
+    "data/record_schema.json": "e5d00bad3c9420299db083bee26d8f9fdb454ae3c9aebaf2dc19cfb71e037b88",
+    "data/reserve_50.json": "9a387393126b64ef999a6f336ee0f20cd8bd602c10a0dbf68a6632d61299d14d",
+    "data/source_register_1300.csv": "08f63b6eaafddcbf1bedb7ed2b7731df4bc133325d5c6942a732f7eaeb22f1f0",
+    "data/split_ids.json": "5091d7a33c3bedbe8b688b96744eaabc8c3814d01f9f51e5602a0a4d4c2c7c6e",
+    "docs/dataset_card.md": "93281983b6635cd19da9917e2dc0d64ead269cc70115f0299c8c2b54ae319a18",
+    "docs/preparation_pipeline.md": "aa3b22563405bf9e61d7bfcfe48c1a414fd0b9078b59a591b1a907bdca8097a3",
+    "notebooks/01_dataset_creation_versioned.ipynb": "cfdfae048931c4fa56792f1143813a23a16b7e9cfbfc41703bae467f2055599d",
+    "notebooks/02_dataset_validation_versioned.ipynb": "9c77930f33c1039dcc4be2595235bf30b1db0f2ac3bd16ec93c108c2a98509d0",
+    "notebooks/03_model_selection_versioned_v7.ipynb": "aa9c5e2ca720139357dfa8fa37c91041cd8c0ed85e956e295523599c164414ed",
+    "notebooks/04_main_answer_internal_features_versioned_v2.ipynb": "82c3a1fa94cfb030734b070f3c4379e11dd5f5a98942b78113aec2f2cf44de79",
+    "notebooks/05_self_confidence_verification_versioned_v2.ipynb": "c45ffa94d198b75159848d492f88dd86ec1319df58a26a9a53bda06a4f0fd150",
+    "notebooks/06_self_consistency_versioned_v2.ipynb": "4449bf66a1e78bdcf21997eaafc2ad170be7d9861a59ddd21d70e99b4dbc733d",
+    "notebooks/07_manual_annotation_versioned_carryforward.ipynb": "5a3b682a1714f413fd8e2ba23d1cc6c625901435a2e24a57f97d0808eea88e69",
+    "notebooks/08_feature_assembly_versioned.ipynb": "5740df7b6ec1d7d93c49db4586660d0b32673bf8273cf8325cc124355c07c6c9",
+    "notebooks/09_feature_analysis_baselines_versioned_repair_optional.ipynb": "e12427c806e17078b39c9c0d1eb055677bc243e221931ade00f57258af4cad80",
+    "notebooks/10_posthoc_calibration_oof_repair1.ipynb": "19df4bab2ae398a23ea1e1beeaef0c6f9cd5aba407354c327d3c4f14e7954c50",
+    "notebooks/11_xgboost_nested_oof_repair1.ipynb": "76142a15bdb079c857f8927dcb5eeb47042a1ab869f790e85755a58079a9425b",
+    "notebooks/12_final_test_protocol_lock_v2.ipynb": "4597dfcca2dfc6c3927a63aa5933b361c1a09dc8877cc0084c680bf57915b7dd",
+    "notebooks/13_final_test_selection_preinference_v1.ipynb": "15c600ea821433d1fa5d62dc13872a246fa7d5a14d573c743e5fdeda4e612ac6",
+    "notebooks/14_independent_final_test_evaluation_v1.ipynb": "8be46c1d9a5f0a068146cae81d2c9c50e706d669f643547bee47830747f45ec5",
+    "notebooks/15_thesis_explanation_and_visuals_v1_EN_horizontal.ipynb": "9ab34a7cc02e0f1dd48cc7e53c6ea67e548f82abbc6638db44592ff8604a6962",
+    "notebooks/16_midi2026_artifact_integrity_audit_v1.ipynb": "f833f3f3fde1c9eba204401b7f87c759542fa8e28ff76833d60b1d3a7085aff1",
+    "notebooks/17_midi2026_self_verification_baselines_v1.ipynb": "0ee34bd0eb58943869c7de54ba8a6065189b0f3b95a51676201ee41a2a6a55bc",
+    "notebooks/18_midi2026_feature_ablation_extended_v2.ipynb": "09d72baaf04ba2fed0860a759b726b9c07458a39718a8a19bbff09a67b591750",
+    "notebooks/19_midi2026_abstention_truncation_diagnostics_v1.ipynb": "16c56bb521b4b5bc40da7a4e09a859f072b3d9fe595cc53b0c4100b12a9e7fca",
+    "notebooks/20_midi2026_dataset_verification_audit_v1.ipynb": "45f3c146aa63265d085daffe2f22de15df98f00b31e1ad2015970c71f2ac22e9",
+    "notebooks/LICENSE": "e8eb913756548658a95e3243efc47e5e568dafe7afc69562dcfc0d7743b4cf4f",
+    "prompts/README.md": "6596eadab03e60c808c2ed66ec95e7653f3fea8ddabdd3e1ae56d5049711c787",
+    "prompts/primary_answer.json": "2c266ff01a18c21599e1ae3c76525e95368341d136e2f7f751edde3e1d93c33e",
+    "prompts/question_generation_provenance.md": "55caed1510249adadeb58bb4ccc7db471adc2bd2dcb6196729615c7fe4c6e9d2",
+    "prompts/self_confidence.json": "978dd3690925efaee7088b645188b9c253fdf6e8f2aa6802d9a45256ecae4bca",
+    "prompts/self_consistency.json": "c2ca532d6789506c8805e6f303fc80caa0abe0682c226bf4c94788a7b55d9bfd",
+    "prompts/self_verification.json": "17ce654df3aba650a9f4fc0af180ea3b51aac71d0ae43e23dcad6957d7e36802",
+    "scripts/LICENSE": "e8eb913756548658a95e3243efc47e5e568dafe7afc69562dcfc0d7743b4cf4f",
+    "scripts/refresh_manifest.py": "5d90daf628b832c85494fc5d2e7446fdbd932e0dec7a294d767a760c3fe09603",
+    "scripts/verify_release.py": "06e695909215e7ac698a7a9534d5b86784c338fed975cf202eda8c6f2bd6726d"
+  }
+}
